@@ -160,6 +160,11 @@ that instead of only deleting and/or rewriting the `TODO` marker from the file
 you should delete the `TODO` marker and the entire prompt and then add your own
 content to demonstrate that you understand all aspects of this project.
 
+Please note that the `article.md` file in the `writing/` directory must contain
+the statement `I adhered to the Allegheny College Honor Code while completing
+this project.` so as to indicate that the author adhered to the Allegheny
+College Honor Code while completing the assignment.
+
 ## Effective Exposition Engineering
 
 Students who create the any type of writing, speaking, or peer review should
